@@ -14,9 +14,6 @@ This project was carried out with the goal of creating a database for Admissions
 
 The admissions data model contains ten key entities. Admissions office is related to University with a one to one relationship. This signifies that each University that uses this database will be associated with their own Admissions Office. The office itself has many employees. These Employees have many workers that report to a head of the Admissions office. From employees they conduct many reviews on applications and participate in many interviews as part of the application process. These applications have many interviews that take place. This creates a many-to-many relationship between application and employees connecting the two entities. High schools from around the United States have many students who will be creating many applications to get into their University of choice. Each of these students have one transcript and standardized test results connected to their information. Having all of these factors connected to each other creates an interconnected data model that portrays the admissions process of student applications.
 
-## Data Dictionary
-
-[DATA DICTIONARY.pdf](https://github.com/dra27013/GroupProject_Admissions/files/11123364/DATA.DICTIONARY.pdf)
 
 ## Data Dictionary 
 ![Logo](https://github.com/cwon-kang/armyGreen/blob/main/DATA%20DICTIONARY%20as%20img_Page_1.png?raw=true)
