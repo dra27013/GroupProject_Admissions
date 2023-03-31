@@ -1,5 +1,7 @@
 # 21479_5_Admissions
-This project was carried out with the goal of creating a database for Admissions Offices. Originally, the plan was to create a functional database for one admissions office, but with creating two extra entities this database has expanded into being useful for multiple universities trying to admit their potential first year students.
+
+## Problem Description
+This project was carried out with the goal of creating a database for Admissions Offices. Originally, the plan was to create a functional database for one admissions office, but with creating two extra entities this database has expanded into being useful for multiple universities trying to admit their potential first year students. The entities entered were High School and University. This database can provide insightful data to track students progress through the application process and allow universities to determine the strength of High School students who want admission into the university. Admissions offices can also track their employees progress in interviews and application reviews. This database makes it easy for the admissions office to keep track of all of their key information.
 
 ## Authors
 -[@dra27013](https://github.com/dra27013)
