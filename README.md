@@ -26,7 +26,7 @@ The admissions data model contains ten key entities. Admissions office is relate
 
 
 ## Query 1:  What is the admission rate of schools that are in California?
-![Logo](https://github.com/SpencerGordon16/MIST4610-Group-Project/blob/main/Screenshot%202023-03-31%20123949.png?raw=true)
+![Logo](https://github.com/SpencerGordon16/MIST4610-Group-Project/blob/main/Screenshot%202023-03-31%20145616.png?raw=true) 
 
 Justification: This query can be used to find the admission rate of schools within a certain state, more specifically California. There are multiple Universities in this data model that are in the state of California school system with the name that includes “University of California”. Thus, this could be useful in comparing the admission rates of schools in different states.
 
